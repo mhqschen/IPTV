@@ -51,13 +51,13 @@ http://192.168.2.1:9009/udp/238.200.200.43:5540
 http://192.168.2.1:9009/udp/238.200.200.45:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" tvg-id="1985" tvg-name="第一财经" group-title="高清台", 第一财经HD
 http://192.168.2.1:9009/udp/238.200.200.132:5540
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshidianshiju.png" tvg-id="1986" tvg-name="上视电视剧频道" group-title="高清台", 电视剧频道HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" tvg-id="1986" tvg-name="东方影视" group-title="高清台", 东方影视HD
 http://192.168.2.1:9009/udp/238.200.200.128:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" tvg-id="1989" tvg-name="上海都市频道" group-title="高清台", 都市频道HD
 http://192.168.2.1:9009/udp/238.200.200.127:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="哈哈炫动" group-title="高清台", 哈哈炫动HD
 http://192.168.2.1:9009/udp/238.200.200.176:5540
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-id="1988" tvg-name="上海纪实" group-title="高清台", 纪实频道HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-id="1988" tvg-name="上海纪实" group-title="高清台", 纪实人文HD
 http://192.168.2.1:9009/udp/238.200.200.129:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" tvg-id="1991" tvg-name="上视外语频道" group-title="高清台", 外语频道HD
 http://192.168.2.1:9009/udp/238.200.200.21:5540
@@ -113,8 +113,6 @@ http://192.168.2.1:9009/udp/238.200.200.121:5540
 http://192.168.2.1:9009/udp/238.200.200.111:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="标清台没高清", CCTV4
 http://192.168.2.1:9009/udp/238.200.200.113:5540
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="标清台没高清", CCTV8
-http://192.168.2.1:9009/udp/238.200.200.117:5540
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="标清台没高清", CCTV高网
 http://192.168.2.1:9009/udp/238.200.200.187:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="标清台没高清", CCTV14少儿
@@ -159,9 +157,5 @@ http://192.168.2.1:9009/udp/238.200.200.172:5540
 http://192.168.2.1:9009/udp/238.200.200.165:5540
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="标清台没高清", 港剧风云
 http://192.168.2.1:9009/udp/238.200.200.198:5540
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="标清台没高清", 东方电影
-http://192.168.2.1:9009/udp/238.200.200.106:5540
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="标清台没高清", 教育台
 http://192.168.2.1:9009/udp/238.200.200.24:5540
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiyishu.jpg" tvg-id="1990" tvg-name="艺术人文频道" group-title="标清台没高清", 艺术人文
-http://192.168.2.1:9009/udp/238.200.200.100:5540
