@@ -71,10 +71,6 @@ http://192.168.2.1:9009/udp/238.200.200.60:5540
 http://192.168.2.1:9009/udp/238.200.200.62:5540
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="高清台", 百事通4K纪实
 http://192.168.2.1:9009/udp/238.200.200.61:5540
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="高清台", 超级体育1HD
-http://192.168.2.1:9009/udp/238.200.200.146:5540
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="高清台", 超级体育2HD
-http://192.168.2.1:9009/udp/238.200.200.147:5540
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="高清台", 动漫秀场HD
 http://192.168.2.1:9009/udp/238.200.200.33:5540
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="高清台", 都市剧场HD
