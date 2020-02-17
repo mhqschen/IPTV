@@ -102,7 +102,7 @@ http://192.168.2.1:9009/udp/238.200.200.32:5540
 http://192.168.2.1:9009/udp/238.200.200.33:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",都市剧场HD
 http://192.168.2.1:9009/udp/238.200.200.34:5540
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场HD
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="付费",欢笑剧场HD
 http://192.168.2.1:9009/udp/238.200.200.35:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",全球大片HD
 http://192.168.2.1:9009/udp/238.200.200.57:5540
@@ -112,7 +112,7 @@ http://192.168.2.1:9009/udp/238.200.200.58:5540
 http://192.168.2.1:9009/udp/238.200.200.59:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",法治天地HD
 http://192.168.2.1:9009/udp/238.200.200.99:5540
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育HD
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="付费",劲爆体育HD
 http://192.168.2.1:9009/udp/238.200.200.126:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",百事通4K电影
 http://192.168.2.1:9009/udp/238.200.200.60:5540
