@@ -228,6 +228,10 @@ http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="港澳台",TVBS新闻台
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/abc_news_24.jpg" group-title="海外",美国ABC 9 Chattanooga TN (WTVC)
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/index_1900_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外",英国BBC World News
