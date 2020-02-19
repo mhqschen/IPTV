@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
-http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.2.1:9009/udp/238.200.200.133:5540
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -27,12 +26,13 @@ http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV13-新闻(标清）
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV13-新闻（标清）
 http://192.168.2.1:9009/udp/238.200.200.122:5540
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
 http://192.168.2.1:9009/udp/238.200.200.125:5540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" tvg-id="1984" tvg-name="上视新闻频道" group-title="上海", 新闻综合
@@ -92,6 +92,23 @@ http://192.168.2.1:9009/udp/238.200.200.134:5540
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://192.168.2.1:9009/udp/238.200.200.45:5540
 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清（伪）
+http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清（真·杭州移动）
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",百事通4K电影
+http://192.168.2.1:9009/udp/238.200.200.60:5540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",百事通4K纪实
+http://192.168.2.1:9009/udp/238.200.200.61:5540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",百事通4K动漫
+http://192.168.2.1:9009/udp/238.200.200.62:5540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",凤凰中文台
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",凤凰咨询台
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",金色频道
 http://192.168.2.1:9009/udp/238.200.200.10:5540
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="付费",极速汽车
@@ -120,12 +137,6 @@ http://192.168.2.1:9009/udp/238.200.200.59:5540
 http://192.168.2.1:9009/udp/238.200.200.99:5540
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="付费",劲爆体育
 http://192.168.2.1:9009/udp/238.200.200.126:5540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",百事通4K电影
-http://192.168.2.1:9009/udp/238.200.200.60:5540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",百事通4K纪实
-http://192.168.2.1:9009/udp/238.200.200.61:5540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",百事通4K动漫
-http://192.168.2.1:9009/udp/238.200.200.62:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",爱悬疑
 http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",爱奇谈
@@ -158,3 +169,49 @@ http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",爱世界
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="付费",黑莓电影高清
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="付费",黑莓动画高清
+http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 group-title="付费",黑莓电竞高清
+http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv爱情喜剧
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv动作电影
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv古装剧场
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv家庭剧场
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv健康有约
+http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv金牌综艺
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv潮妈辣婆
+http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv惊悚悬疑
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv精品体育
+http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv炫舞未来
+http://112.50.243.8/PLTV/88888888/224/3221226699/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv军旅剧场
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv精品记录
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv精品大剧
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv军事评论
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv超级综艺
+http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv超级体育
+http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv超级电影
+http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv超级电视剧
+http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv搏击
+http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 group-title="付费",Newtv中国功夫
+http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
