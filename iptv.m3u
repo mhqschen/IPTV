@@ -259,3 +259,113 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="海外",印尼CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w657690154_b192000_sleng.m3u8
+
+
+#EXTINF:-1,Bloomberg
+4[1280*720],https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,# 7) RT America
+5[1280*720],https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1,# 25)  Infowars Live
+20[1280*720],https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b2244608.m3u8
+#EXTINF:-1,# 30) The Weather Channel
+25[1280*720],https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 32) RT Documentary
+27[1280*720],https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1,# 36) CPAC 1 Canada
+31[1280*720],https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1572351842277/Layer3_master.m3u8
+#EXTINF:-1,QVC Live Stream
+40[1280*720],https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/index_2500_av-p.m3u8?sd=10&rebase=on
+42[1280*720],https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/index_2500_av-p.m3u8?sd=10&rebase=on
+43[1280*720],https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/index_2500_av-p.m3u8?sd=10&rebase=on
+44[1280*720],https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 57) TSTV  Texas State University TV
+51[1280*720],http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,# 58) Temple University TV
+52[1280*720],https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist.m3u8
+#EXTINF:-1,# 68) CBSN New York
+57[1280*720],https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_7.m3u8
+#EXTINF:-1,# 84) RT Francais
+68[1280*720],https://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+#EXTINF:-1,# 100) Alsace 20 France
+81[1280*720],https://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist_w357100756_b1415536.m3u8
+#EXTINF:-1,# 113) GONG MAX
+93[1280*720],http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1,EN VIVO
+100[1280*720],https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+104[1280*720],https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,# 140) Telemax Argentina
+106[1280*720],http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w813342727_b1828000_sleng.m3u8
+#EXTINF:-1,Transmisión en directo de Excélsior TV
+110[1280*720],http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,# 170) Baden TV DE
+117[1280*720],https://cdn.icu.de/rtplive/smil:btv.smil/chunklist_w1511966266_b2224000_sldeu.m3u8
+#EXTINF:-1,# 176)RTV OOST NETHERLANDS
+120[1280*720],https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/46ce631a-6155-4fcc-ac24-2b2e252f4f94/index.m3u8
+#EXTINF:-1,UATV
+128[1280*720],https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,# 192) TV Publica Moldova
+129[1280*720],http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,RT
+135[1280*720],https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1,# 374) NHK World Chinese
+151[1280*720],https://player.ooyala.com/hls/player/all/tsbDU4aDE6YAEKog3p0IfCoQFIZg2Koy/media/1116.m3u8
+#EXTINF:-1,# 413) NBC News Live Event
+168[1280*720],https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 444) V2Beat
+189[1280*720],https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1,# 445) DanceStar TV
+190[1280*720],https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1,# 452) Classic ARTS
+196[1280*720],https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1,# 454) Jasmin TV
+198[1280*720],http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist.m3u8
+#EXTINF:-1,# 487)Catholic TV (USA)
+221[1280*720],http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 499) Trinity Channel
+229[1280*720],http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:-1,# 582) Tele-Quebec
+253[1280*720],https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1,# 732) Bowie TV
+291[1280*720],http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,# 769) Town of Vienna Community Network [HQ]
+327[1280*720],https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:-1,# 784) ABC News USA  1
+337[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 786)ABC News USA 3
+339[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live03@423397/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 787)ABC News USA 4
+340[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 788)ABC News USA 5
+341[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live05@423399/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 789)ABC News USA 6
+342[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live06@423400/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 790)ABC News USA 7
+343[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live07@423401/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 793) ABC News USA 10
+346[1280*720],https://abclive1-lh.akamaihd.net/i/abc_live10@420897/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,# 1051) Rover\'s Morning Glory RMG-TV Cleavland Ohio
+348[1280*720],http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1,# 1123) Vedia BE
+351[1280*720],https://5a0b00d270652.streamlock.net/live/vedia-live/playlist.m3u8
+#EXTINF:-1,# 1168)Oireachtas Committee Room 4
+374[1280*720],http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1,# 10)Cheddar Big News
+6[1920*1080],https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1,# 11)Cheddar Business
+7[1920*1080],https://live.chdrstatic.com/cheddar/primary/1.m3u8
+#EXTINF:-1,# 18) Arirang TV Korea KR
+13[1920*1080],https://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,# 19) Channel News Asia Singapore
+14[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,# 52)  TVW Washington State TV
+46[1920*1080],https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w582357431_b2179072.m3u8
+#EXTINF:-1,# 53) District of Columbia Network
+47[1920*1080],https://video.oct.dc.gov/out/u/21_4.m3u8
+#EXTINF:-1,# 54) District of Columnbia
+48[1920*1080],https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1,# 55) DC Knowledge Network
+49[1920*1080],https://video.oct.dc.gov/out/u/96_10.m3u8
+#EXTINF:-1,# 86)TV5 Monde Info
+70[1920*1080],https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1,# 450) Ditty TV
+195[1920*1080],https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8?sd=10&rebase=on
