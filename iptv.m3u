@@ -101,6 +101,31 @@ http://192.168.2.1:9009/udp/238.200.200.62:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K（20M）
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.165.106/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.165.105/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.165.124/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.165.245/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.165.254/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.191.81/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.191.80/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.191.82/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.191.83/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://117.148.191.109/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",CCTV-4K
+http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",金色频道
 http://192.168.2.1:9009/udp/238.200.200.10:5540
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="付费",极速汽车
