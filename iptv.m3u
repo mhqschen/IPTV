@@ -1,13 +1,13 @@
-#EXTM3U x-tvg-url="https://epg.vercel.app/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.2.1:9009/udp/238.200.200.133:5540
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 http://192.168.2.1:9009/udp/238.200.200.63:5540
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
 http://192.168.2.1:9009/udp/238.200.200.215:5540
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
@@ -15,7 +15,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://192.168.2.1:9009/udp/238.200.200.65:5540
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://192.168.2.1:9009/udp/238.200.200.66:5540
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
@@ -51,9 +51,9 @@ http://192.168.2.1:9009/udp/238.200.200.21:5540
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://192.168.2.1:9009/udp/238.200.200.131:5540
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
-
-
 http://192.168.2.1:9009/udp/238.200.200.176:5540
+
+
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://192.168.2.1:9009/udp/238.200.200.38:5540
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
@@ -65,7 +65,7 @@ http://192.168.2.1:9009/udp/238.200.200.138:5540
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://192.168.2.1:9009/udp/238.200.200.86:5540
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://192.168.2.1:9009/udp/238.200.200.140:5540
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
@@ -73,7 +73,7 @@ http://192.168.2.1:9009/udp/238.200.200.142:5540
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://192.168.2.1:9009/udp/238.200.200.136:5540
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://192.168.2.1:9009/udp/238.200.200.135:5540
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
@@ -105,16 +105,7 @@ http://192.168.2.1:9009/udp/238.200.200.62:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K（20M）
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K
-http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
-# http://111.161.121.181/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
-# http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
-# http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
-# http://111.161.121.214/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
-# http://110.242.20.87/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-# http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-# http://110.242.20.89/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-# http://110.242.20.90/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-# http://110.242.20.108/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",金色频道
