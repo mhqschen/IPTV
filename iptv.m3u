@@ -19,19 +19,19 @@ http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://192.168.2.1:9009/udp/238.200.200.66:5540
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV13-新闻
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
