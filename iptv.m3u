@@ -3,35 +3,35 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.2.1:9009/udp/238.200.200.133:5540
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
 http://192.168.2.1:9009/udp/238.200.200.63:5540
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
 http://192.168.2.1:9009/udp/238.200.200.215:5540
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://192.168.2.1:9009/udp/238.200.200.65:5540
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://192.168.2.1:9009/udp/238.200.200.66:5540
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
-http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV13-新闻
-http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
@@ -65,7 +65,7 @@ http://192.168.2.1:9009/udp/238.200.200.138:5540
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://192.168.2.1:9009/udp/238.200.200.86:5540
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225842/1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://192.168.2.1:9009/udp/238.200.200.140:5540
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
@@ -73,7 +73,7 @@ http://192.168.2.1:9009/udp/238.200.200.142:5540
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://192.168.2.1:9009/udp/238.200.200.136:5540
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225851/1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://192.168.2.1:9009/udp/238.200.200.135:5540
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
@@ -103,7 +103,7 @@ http://192.168.2.1:9009/udp/238.200.200.61:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",百事通4K动漫（20M）
 http://192.168.2.1:9009/udp/238.200.200.62:5540
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K（20M）
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K
 http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 
@@ -169,59 +169,59 @@ http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="付费",爱世界
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="付费",黑莓电影高清
-http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 group-title="付费",黑莓动画高清
-http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 group-title="付费",黑莓电竞高清
-http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv爱情喜剧
-http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv动作电影
-http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv古装剧场
-http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv家庭剧场
-http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv健康有约
-http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv金牌综艺
-http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv潮妈辣婆
-http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv惊悚悬疑
-http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv精品体育
-http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv炫舞未来
-http://112.50.243.8/PLTV/88888888/224/3221226699/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv军旅剧场
-http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv精品记录
-http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv精品大剧
-http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv军事评论
-http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv超级综艺
-http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv超级体育
-http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv超级电影
-http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv超级电视剧
-http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv搏击
-http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 group-title="付费",Newtv中国功夫
-http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港澳台",香港电台RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
-http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
-http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻(稳定)
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
