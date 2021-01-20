@@ -1,4 +1,4 @@
-#EXTM3U "上海电信IPTV"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1综合HD
