@@ -53,6 +53,8 @@ http://router.900416.xyz:21678/rtp/239.45.3.211:5140
 http://router.900416.xyz:21678/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海频道",外语频道HD
 http://router.900416.xyz:21678/rtp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动HD
+http://router.900416.xyz:21678/rtp/239.45.1.55:5140
 
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视HD
@@ -149,8 +151,6 @@ http://router.900416.xyz:21678/rtp/239.45.3.136:5140
 http://router.900416.xyz:21678/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="付费频道",金鹰纪实HD
 http://router.900416.xyz:21678/rtp/239.45.1.45:5140
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="付费频道",哈哈炫动HD
-http://router.900416.xyz:21678/rtp/239.45.1.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="付费频道",中国教育-1HD
 http://router.900416.xyz:21678/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="付费频道",金鹰卡通
