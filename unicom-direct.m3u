@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1综合HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1HD 综合
 http://20.254.1.9/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2财经HD
+#EXTINF:-1 tvg-id="2 tvg-name="CCTV2 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2HD 财经
 http://20.254.1.9/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3综艺HD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3HD 综艺
 http://20.254.1.9/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4中文国际HD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4HD 中文国际
 http://20.254.1.9/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5体育HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5HD 体育
 http://20.254.1.9/PLTV/88888888/224/3221225862/10000100000000060000000001067915_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6电影HD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6HD 电影
 http://20.254.1.9/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7国防军事HD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7HD 国防军事
 http://20.254.1.9/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8电视剧HD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8HD 电视剧
 http://20.254.1.9/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV-9纪录HD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV-9HD 纪录
 http://20.254.1.9/PLTV/88888888/224/3221225888/10000100000000060000000001558690_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10科教HD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10HD 科教
 http://20.254.1.9/PLTV/88888888/224/3221225889/10000100000000060000000001558694_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11戏曲
-http://20.254.1.9/PLTV/88888888/224/3221225655/10000100000000060000000000012465_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12社会与法HD
+#EXTINF:-1 tvg-id="12 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11HD 戏曲
+http://20.254.1.9/PLTV/88888888/224/3221226034/10000100000000060000000002233116_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12HD 社会与法
 http://20.254.1.9/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13新闻
-http://20.254.1.9/PLTV/88888888/224/3221225658/10000100000000060000000000012467_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14少儿HD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13HD 新闻
+http://20.254.1.9/PLTV/88888888/224/3221226036/10000100000000060000000002233161_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14HD 少儿
 http://20.254.1.9/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15音乐
-http://20.254.1.9/PLTV/88888888/224/3221225660/10000100000000060000000000012468_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="17" tvg-name="CCVT17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农业农村HD
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15HD 音乐
+http://20.254.1.9/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17HD 农业农村
 http://20.254.1.9/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海频道",东方卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
@@ -41,7 +41,7 @@ http://20.254.1.9/PLTV/88888888/224/3221225690/10000100000000060000000000012476_
 http://20.254.1.9/PLTV/88888888/224/3221225700/10000100000000060000000000013593_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海频道",五星体育HD
 http://20.254.1.9/PLTV/88888888/224/3221225689/10000100000000060000000000012789_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动HD
+#EXTINF:-1 tvg-id="62 tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动HD
 http://20.254.1.9/PLTV/88888888/224/3221225855/10000100000000060000000001175042_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海频道",外语频道HD
 http://20.254.1.9/PLTV/88888888/224/3221225784/10000100000000060000000001020054_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
@@ -53,12 +53,6 @@ http://20.254.1.9/PLTV/88888888/224/3221225691/10000100000000060000000000012475_
 http://20.254.1.9/PLTV/88888888/224/3221225816/10000100000000060000000001128677_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方购物-2HD
 http://20.254.1.9/PLTV/88888888/224/3221225844/10000100000000060000000001128678_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方购物-3HD
-http://20.254.1.9/PLTV/88888888/224/3221225817/10000100000000060000000001128681_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方购物-4HD
-http://20.254.1.9/PLTV/88888888/224/3221225818/10000100000000060000000001128684_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方购物-5HD
-http://20.254.1.9/PLTV/88888888/224/3221225819/10000100000000060000000001128686_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="地方卫视",东南卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225800/10000100000000060000000001020094_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方卫视",云南卫视HD
@@ -73,7 +67,7 @@ http://20.254.1.9/PLTV/88888888/224/3221225886/10000100000000060000000001558313_
 http://20.254.1.9/PLTV/88888888/224/3221225802/10000100000000060000000001020097_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视",天津卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视",安徽卫视HD
+#EXTINF:-1 tvg-id="32 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视",安徽卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225796/10000100000000060000000001020089_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="地方卫视",山东卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
@@ -99,9 +93,9 @@ http://20.254.1.9/PLTV/88888888/224/3221225681/10000100000000060000000000012489_
 http://20.254.1.9/PLTV/88888888/224/3221225683/10000100000000060000000000012487_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视",湖南卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225685/10000100000000060000000000012483_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视HD
+#EXTINF:-1 tvg-id="42 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视HD
 http://20.254.1.9/PLTV/88888888/224/3221225928/10000100000000060000000002015038_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方卫视",纪实科教HD
+#EXTINF:-1 tvg-id="1872 tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方卫视",纪实科教HD
 http://20.254.1.9/PLTV/88888888/224/3221225878/10000100000000060000000001468625_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方卫视",茶频道HD
 http://20.254.1.9/PLTV/88888888/224/3221225899/10000100000000060000000001580168_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
@@ -117,6 +111,8 @@ http://20.254.1.9/PLTV/88888888/224/3221225909/10000100000000060000000001580153_
 http://20.254.1.9/PLTV/88888888/224/3221225682/10000100000000060000000000012488_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频道",中国教育-1HD
 http://20.254.1.9/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视频道",中国教育-4HD
+http://20.254.1.9/PLTV/88888888/224/3221226037/10000100000000060000000002233119_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",上海教育HD
 http://20.254.1.9/PLTV/88888888/224/3221225926/10000100000000060000000002015042_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",乐游HD
@@ -151,3 +147,7 @@ http://20.254.1.9/PLTV/88888888/224/3221225851/10000100000000060000000001138696_
 http://20.254.1.9/PLTV/88888888/224/3221225843/10000100000000060000000001128720_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道",陶瓷HD
 http://20.254.1.9/PLTV/88888888/224/3221225854/10000100000000060000000001138699_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方财经HD
+http://20.254.1.9/PLTV/88888888/224/3221226033/10000100000000060000000002233115_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="数字频道",七彩戏剧HD
+http://20.254.1.9/PLTV/88888888/224/3221226032/10000100000000060000000002233114_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
